@@ -1,0 +1,11 @@
+export default {
+  API_ENDPOINT: 'http://localhost:8000/api'
+}
+
+// const dev = {
+//   API_ENDPOINT: 'http://localhost:8000/api'
+// }
+
+// const prod = {
+
+// }
