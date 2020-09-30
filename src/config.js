@@ -1,5 +1,5 @@
 export default {
-  API_ENDPOINT: 'https://whispering-falls-62438.herokuapp.com'
+  API_ENDPOINT: 'https://whispering-falls-62438.herokuapp.com/api'
 }
 
 // const dev = {
